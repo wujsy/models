@@ -87,3 +87,11 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# PyCharm
+.idea/
+
+# For mac
+.DS_Store
+
+samples/outreach/blogs/segmentation_blogpost/carvana-image-masking-challenge/
